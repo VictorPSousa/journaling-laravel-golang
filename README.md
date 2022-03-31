@@ -4,7 +4,7 @@ O objetivo deste app é possibilitar ao usuário fazer o controle das suas ativi
 
 Este aplicativo prevê a elaboração de uma plataforma que permita aos usuários o controle de tarefas a fazer em seu calendário pessoal, através de to-do lists, associe-as a projetos pessoais bem como permita-os fazer anotações relativas aos tópicos de seu interesse em uma espécie de diário.
 
-Futuramente serão feitas atualizações para incrementar a funcionalidade da aplicação. Novas ferramentas serão aplicadas como o _docker-compose_, K8S, e Swapper para documentação da API. Também aplicaremos TDD nas novas funcionalidades.
+Futuramente serão feitas atualizações para incrementar a funcionalidade da aplicação. Novas ferramentas serão aplicadas como o _docker-compose_, K8S, e Swapper para documentação da API. Também aplicaremos TDD nas novas funcionalidades de _DashBoard_, melhorias na página de Notas (com possibilidade de fixa-lás e dar um comportamento mais dinâmico), melhoria na parte de recuperação de conta e realizar o logout automático.
 
 ---
 
